@@ -34,5 +34,5 @@ A modern, fully responsive landing page built for **Task 3: Responsive Landing P
 1. Download / clone this repository
 2. Open `index.html` directly in any browser — no build step or server required
 
----
-Built for the **TechNova Internship Program** — Web Development Track.
+## Internship Task
+Built as part of the TechNova Web Development Internship.
